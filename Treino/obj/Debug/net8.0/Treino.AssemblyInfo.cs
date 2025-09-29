@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Treino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52e67794cc06858b015b0277a2f4d7c17f6a1205")]
 [assembly: System.Reflection.AssemblyProductAttribute("Treino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Treino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
